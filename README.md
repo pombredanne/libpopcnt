@@ -16,7 +16,7 @@ Clang and MSVC compilers.
 
 The algorithms used in ```libpopcnt.h``` are described in the paper
 [Faster Population Counts using AVX2 Instructions](https://arxiv.org/abs/1611.07612)
-by Daniel Lemire, Nathan Kurz and Wojciech Mula (23 Nov 2016).
+by Wojciech Mula, Nathan Kurz and Daniel (23 Nov 2016).
 
 ## How it works
 
